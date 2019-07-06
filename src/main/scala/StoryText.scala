@@ -7,4 +7,7 @@ object StoryText {
   val introTwo = "Before setting out on your adventure you quickly search through your pockets to find some clues " +
     "about how you ended up in this situation. However all you find is a highly decorated, but aged compass " +
     "nestled in the pocket of your breeches. Could it be a good idea to follow this?"
+
+  val toolTipOne = "---You can move by entering 'north', 'south', 'east', or 'west' into the console---"
+  val toolTipTwo = "---View your inventory by typing 'inventory', and use an item by typing 'use [name of item]'---"
 }
