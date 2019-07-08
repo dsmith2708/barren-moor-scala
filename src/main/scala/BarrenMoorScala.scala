@@ -23,7 +23,8 @@ object Main extends App {
   println(toolTipOne)
   println(toolTipTwo)
   gameState = GameStates.running
-  var player = new barrenMoor.Player();
+  var player = new barrenMoor.Player()
+  var map = new barrenMoor.Map()
 
   // Main Game Loop
   while (gameState == GameStates.running) {
