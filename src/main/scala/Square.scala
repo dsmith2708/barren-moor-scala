@@ -1,3 +1,3 @@
 package barrenMoor
 
-class Square(val location: Coordinates)
+class Square(val location: Coordinates, val contents: Item)
