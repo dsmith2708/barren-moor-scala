@@ -1,0 +1,18 @@
+--------Barren Moor--------
+
+Map
+-x
+-y
+-contents
+
+Item
+-Name
+-effect lambda, returs { health, location }
+
+StoryText
+-text1, 2, 3 etc.
+
+Player
+-x
+-y
+-inventory
