@@ -1,8 +1,10 @@
+package barrrenMoor
+
 object Main extends App {
-  import StoryText.introOne
-  import StoryText.introTwo
-  import StoryText.toolTipOne
-  import StoryText.toolTipTwo
+  import barrenMoor.StoryText.introOne
+  import barrenMoor.StoryText.introTwo
+  import barrenMoor.StoryText.toolTipOne
+  import barrenMoor.StoryText.toolTipTwo
 
   println(introOne)
   println(introTwo)

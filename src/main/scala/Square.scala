@@ -1,1 +1,3 @@
-class Square(val x: Int, val y: Int)
+package barrenMoor
+
+class Square(val location: Coordinates)

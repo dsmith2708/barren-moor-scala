@@ -1,3 +1,5 @@
+package barrenMoor
+
 object StoryText {
   val introOne = "You open your eyes to see a mix of brown and green; your vision hazy at first and slowly clearing " +
     "you begin to make out details and shapes. In front of you you see a vast, open, and almost entirely empty swamp. " +
