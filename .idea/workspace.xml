@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5389fb92-b82f-46a7-a1d5-3fd74e6cff1c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/scala/BarrenMoorScala.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/BarrenMoorScala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Player.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Player.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/BarrenMoorScala.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+            <state relative-caret-position="290">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="e#49#76#0" expanded="true" />
               </folding>
@@ -72,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Player.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="68">
+              <caret line="4" column="61" lean-forward="true" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -101,10 +102,10 @@
         <option value="$PROJECT_DIR$/src/main/scala/Coordinates.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Item.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/StoryText.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Player.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Square.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Map.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/BarrenMoorScala.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Player.scala" />
       </list>
     </option>
   </component>
@@ -276,12 +277,12 @@
       <workItem from="1562434348353" duration="793000" />
       <workItem from="1562435175827" duration="255000" />
       <workItem from="1562435464392" duration="3311000" />
-      <workItem from="1562578392811" duration="6040000" />
+      <workItem from="1562578392811" duration="6526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10399000" />
+    <option name="totallyTimeSpent" value="10885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -325,13 +326,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Player.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Coordinates.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -369,11 +363,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/BarrenMoorScala.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        <state relative-caret-position="290">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="e#49#76#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Player.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="61" lean-forward="true" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
         </state>
       </provider>
     </entry>

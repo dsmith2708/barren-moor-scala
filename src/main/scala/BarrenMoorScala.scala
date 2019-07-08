@@ -28,7 +28,9 @@ object Main extends App {
 
   // Main Game Loop
   while (gameState == GameStates.running) {
-    println("Game Running")
+    // Get player input
+    val input = scala.io.StdIn.readLine()
+
     gameState = GameStates.complete
   }
   // Game Shutdown code
